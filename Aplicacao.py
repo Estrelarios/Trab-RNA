@@ -5,6 +5,9 @@
 # Aconselha-se a utilização de um ambiente python separado, como cuda ou env.
 # Caso haja interesse em treinar seu próprio modelo, desaconselha-se a utilização da simulação visual devido ao tempo adicionado
 
+# O código presente é inspirado pelos seguintes repositórios:
+# https://github.com/pythonlessons/Reinforcement_Learning/tree/master/LunarLander-v2_PPO
+# https://github.com/pythonlessons/Reinforcement_Learning/tree/master/BipedalWalker-v3_PPO
 
 import os
 import gymnasium as gym
