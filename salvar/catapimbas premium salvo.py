@@ -1,3 +1,6 @@
+# O código presente é inspirado pelos seguintes repositórios:
+# https://github.com/pythonlessons/Reinforcement_Learning/tree/master/LunarLander-v2_PPO
+# https://github.com/pythonlessons/Reinforcement_Learning/tree/master/BipedalWalker-v3_PPO
 
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '-1' # -1:cpu, 0:first gpu
